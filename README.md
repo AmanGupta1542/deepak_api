@@ -1,2 +1,1 @@
-# deepak_api
-An ecommerce website apis.
+# Deepak Ecommerce website api
